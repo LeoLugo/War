@@ -1,0 +1,23 @@
+{
+  "name": "war",
+  "version": "1.0.0",
+  "description": "",
+  "main": "war.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PC-FEE-Spring-2018/War.git"
+  },
+  "author": "Michael Sweeney <jfmike@gmail.com> (https://github.com/overthemike)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PC-FEE-Spring-2018/War/issues"
+  },
+  "homepage": "https://github.com/PC-FEE-Spring-2018/War#readme",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "moment": "^2.21.0"
+  }
+}
